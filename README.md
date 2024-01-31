@@ -1,0 +1,2 @@
+# cdn.cloudstatic.com
+cdn
